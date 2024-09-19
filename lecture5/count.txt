@@ -1,0 +1,10 @@
+adams.txt:39
+tolkien.txt:114
+black-holes.txt:63
+adams.txt:1
+tolkien.txt:2
+black-holes.txt:1
+adams.txt:1
+tolkien.txt:4
+black-holes.txt:0
+Total counts of 'the', 'pass', and 'end':
